@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="12sp"
+    app:cardElevation="2dp"
+    app:cardCornerRadius="8dp">
+    
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:padding="10dp"
+        android:background="@color/login">
+        
+        <ImageView
+            android:id="@+id/food_image"
+            android:layout_width="100dp"
+            android:layout_height="150dp"
+            android:src="@drawable/pizza"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:id="@+id/food_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/food_image"
+            android:fontFamily="@font/roboto"
+            android:text="The Point"
+            android:textColor="@color/colorSearchBar"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/foodDescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/food_title"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/food_image"
+            android:fontFamily="@font/roboto"
+            android:text="Homemade pizza prepared daily"
+            android:textColor="@color/colorSearchBar" />
+
+
+
+        
+    </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>

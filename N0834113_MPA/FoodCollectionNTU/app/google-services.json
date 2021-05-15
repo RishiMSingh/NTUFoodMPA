@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "974852379433",
+    "firebase_url": "https://foodcollectionntu-default-rtdb.firebaseio.com",
+    "project_id": "foodcollectionntu",
+    "storage_bucket": "foodcollectionntu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974852379433:android:a040c3f3f07711a4535d38",
+        "android_client_info": {
+          "package_name": "com.example.foodcollectionntu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974852379433-m8fjegi5hl8e7bcj4p7806p7970n3352.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodcollectionntu",
+            "certificate_hash": "948a618d92eabbc5158a04e81d58be85c57bf300"
+          }
+        },
+        {
+          "client_id": "974852379433-ih3aglhavub4l4837pgec64ma68vdk5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsV9QaQUqjQRrbkerjteE2w2AplxVlydE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974852379433-ih3aglhavub4l4837pgec64ma68vdk5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

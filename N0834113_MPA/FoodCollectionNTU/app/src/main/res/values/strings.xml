@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">FoodCollectionNTU</string>
+    <string name="splashscreenName">NTU SMART CAMPUS ORDER &amp; COLLECT</string>
+
+
+    <!--dashboard-->
+    <string name="header">NTU CLICK &amp; COLLECT</string>
+    <string name="search">Search</string>
+    <string name="resturants">Restaurants   on   Campus</string>
+    <string name="popular">Most Popular</string>
+    <string name="categories">Categories</string>
+    <string name="view">View All</string>
+    <string name="thePoint">This space transforms itself from a pub and diner by daytime into an amazing club space by night.</string>
+    <string name="theRefectory">The Refectory provides a wide range of food which can help regenerate your energy for a busy day of studies.</string>
+    <string name="Cafe">Need a hot coffee to wake up? Say no more we serve a wide range of hot drinks and refreshments.</string>
+    <!--Nav Menu-->
+    <string name="home">Home</string>
+    <string name="locations">Restaurants</string>
+    <string name="basket">Basket</string>
+    <string name="map">Map</string>
+    <string name="Logout">Logout</string>
+
+    <!--Settings -->
+
+    <string name="Update">Update Details</string>
+
+    <!---Food Array -->
+    <array name="foodItems">
+        <item>Pizza</item>
+        <item>Sandwiches</item>
+        <item>Coke</item>
+        <item>Hot Chocolate</item>
+
+    </array>
+
+    <!---Food prices -->
+    <string name="price1">£5.00</string>
+    <string name="price2">£3.50</string>
+    <string name="price3">£2.70</string>
+    <string name="price4">£1.10</string>
+
+
+    <!--App key -->
+    <string name="title_activity_maps">Map</string>
+
+
+
+    <string-array name="Food">
+        <item>Restaurants</item>
+        <item>Pizza</item>
+        <item>Burger</item>
+        <item>The Point</item>
+        <item>The Refectory</item>
+        <item>Basket</item>
+        <item>Map</item>
+    </string-array>
+
+
+</resources>
