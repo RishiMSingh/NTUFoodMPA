@@ -1,6 +1,6 @@
 # NTUFoodMPA
 
-Mobile Application
+#Mobile Application
 
 Due to the overwhelming increase in the coronavirus numbers, the food industry has been at a significant loss, with 
 sales dropping 56.6% compared to the previous year. Slowly post lockdown, many businesses saw a slight increase in sales, 
